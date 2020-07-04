@@ -1,0 +1,53 @@
+Character class
+
+Name
+
+
+Attributes
+  Body:
+  o Might
+    -Affects overall melee damage
+    -Strength checks
+    -
+
+  o Talent
+    -Affects overall ranged damage
+    -
+    -
+
+  o Fortitude
+    -Affects overall health/damage resistance
+    -
+    -
+
+  Mind:
+  o Rigor
+    -Affects overall magic efficacy?
+    -
+    -
+
+  o Intuition
+    -Affects rate of skill gain
+    -Natural grasp of new concepts and skills
+    -
+
+  o Personality
+    -Pursuasiveness / intimidation
+    -Ability to understand and work with people
+    -
+
+  Spirit (Abstracted? Spirit could be the player?):
+  o Sense
+    -
+    -
+    -
+  
+  o Attunement
+    -
+    -
+    -
+
+  o <placeholder>
+    -
+    -
+    -
