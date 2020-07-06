@@ -1,20 +1,28 @@
 Pillars of design:
 
-Experiences I like:
+Experiences I want:
 
-Writing
+Writing:
   o Dreamlike vacancy
-  o Visceral
-  o Folklore bleeds into history
+  o Visceral prose
+  o History vague and muddied by folklore
+  o Fading glory
+  o Large world, open to free exploration
+  o Duality is a universal axiom
 
-Mechanics
-  o Methodical character progression
-  o 
-  o 
+
+
+Mechanics:
+  o Fluid, non-threshold-based character development
+  o Sills upgrade on a practice basis, not through spending skillpoints
+  o Non-categorical character creation
+  o Some builds are unviable, but allowance for range of combat approaches
+  o Unique 
+
 
 Experiences I don't like:
   o Pick-and-choose classes
-  o Cliche writing
+  o Fantasy tropes
   o 
 
 
